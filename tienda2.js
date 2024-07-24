@@ -12,7 +12,7 @@ const categorias = {
 
 // Función para mostrar el menú principal (usando función flecha)
 const mostrarMenuPrincipal = () => {
-  let menu = "Bienvenido a la tienda de joyería\n";
+  let menu = "¡Bienvenido a nuestra tienda!\n";
   menu += "Seleccione una categoría:\n";
   let categoriasArray = Object.keys(categorias);
   for (let i = 0; i < categoriasArray.length; i++) {
