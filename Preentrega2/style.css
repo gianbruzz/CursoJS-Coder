@@ -1,0 +1,33 @@
+.main-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 50px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(18, 82, 221, 0.377);
+}
+.btn-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.btn-full-width {
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+.carrito-card {
+  border-radius: 0.25rem;
+}
+.alert {
+  margin-bottom: 20px;
+}
+
+.compra{
+  display: block;
+  justify-content: center;
+  padding: 30px;
+  margin-top: 30px;
+
+}
