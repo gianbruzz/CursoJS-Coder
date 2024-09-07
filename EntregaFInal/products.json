@@ -1,0 +1,124 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Anillo de oro 18k con diamante",
+      "categoria": "Anillos",
+      "precio": 1000,
+      "moneda": "USD",
+      "material": "Oro 18k",
+      "piedra": "Diamante",
+      "peso": "5 gramos",
+      "stock": 10,
+      "imagen": "assets/images/anillo1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Collar de plata con topacio",
+      "categoria": "Collares",
+      "precio": 220,
+      "moneda": "USD",
+      "material": "Plata 925",
+      "piedra": "Topacio azul",
+      "largo": "45 cm",
+      "stock": 15,
+      "imagen": "assets/images/collar1.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Pulsera de oro blanco con esmeralda",
+      "categoria": "Pulseras",
+      "precio": 800,
+      "moneda": "USD",
+      "material": "Oro blanco",
+      "piedra": "Esmeralda",
+      "peso": "10 gramos",
+      "stock": 8,
+      "imagen": "assets/images/pulsera1.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Aros de plata con perlas",
+      "categoria": "Aros",
+      "precio": 150,
+      "moneda": "USD",
+      "material": "Plata 925",
+      "piedra": "Perla",
+      "peso": "2 gramos",
+      "stock": 20,
+      "imagen": "assets/images/aro1.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Reloj Rólex Platinum",
+      "categoria": "Relojes",
+      "precio": 500,
+      "moneda": "USD",
+      "material": "Acero inoxidable",
+      "marca": "Rolex",
+      "tipo": "Analógico",
+      "stock": 12,
+      "imagen": "assets/images/reloj1.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Anillo de platino con rubí",
+      "categoria": "Anillos",
+      "precio": 2500,
+      "moneda": "USD",
+      "material": "Platino",
+      "piedra": "Rubí",
+      "peso": "7 gramos",
+      "stock": 5,
+      "imagen": "assets/images/anillo2.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Collar de oro rosa con diamantes",
+      "categoria": "Collares",
+      "precio": 3200,
+      "moneda": "USD",
+      "material": "Oro rosa 18k",
+      "piedra": "Diamante",
+      "largo": "40 cm",
+      "stock": 7,
+      "imagen": "assets/images/collar2.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Pulsera de cuero con cierre de plata",
+      "categoria": "Pulseras",
+      "precio": 180,
+      "moneda": "USD",
+      "material": "Cuero",
+      "cierre": "Plata 925",
+      "largo": "20 cm",
+      "stock": 25,
+      "imagen": "assets/images/pulsera2.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Aros de oro amarillo con zafiros",
+      "categoria": "Aros",
+      "precio": 1100,
+      "moneda": "USD",
+      "material": "Oro amarillo 18k",
+      "piedra": "Zafiro",
+      "peso": "3 gramos",
+      "stock": 9,
+      "imagen": "assets/images/aro2.webp"
+    },
+    {
+      "id": 10,
+      "nombre": "Reloj de oro 18k con correa de cuero",
+      "categoria": "Relojes",
+      "precio": 4500,
+      "moneda": "USD",
+      "material": "Oro 18k",
+      "marca": "Rolex",
+      "tipo": "Analógico",
+      "stock": 6,
+      "imagen": "assets/images/reloj2.webp"
+    }
+  ]
+}

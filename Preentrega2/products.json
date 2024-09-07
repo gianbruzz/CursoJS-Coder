@@ -1,0 +1,105 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Anillo de oro 18k con diamante",
+        "categoria": "Anillos",
+        "precio": 1000,
+        "moneda": "USD",
+        "material": "Oro 18k",
+        "piedra": "Diamante",
+        "peso": "5 gramos"
+      },
+      {
+        "id": 2,
+        "nombre": "Collar de plata con topacio",
+        "categoria": "Collares",
+        "precio": 220,
+        "moneda": "USD",
+        "material": "Plata 925",
+        "piedra": "Topacio azul",
+        "largo": "45 cm"
+      },
+      {
+        "id": 3,
+        "nombre": "Pulsera de oro blanco con esmeralda",
+        "categoria": "Pulseras",
+        "precio": 800,
+        "moneda": "USD",
+        "material": "Oro blanco",
+        "piedra": "Esmeralda",
+        "peso": "10 gramos"
+      },
+      {
+        "id": 4,
+        "nombre": "Aros de plata con perlas",
+        "categoria": "Aros",
+        "precio": 150,
+        "moneda": "USD",
+        "material": "Plata 925",
+        "piedra": "Perla",
+        "peso": "2 gramos"
+      },
+      {
+        "id": 5,
+        "nombre": "Reloj de acero inoxidable",
+        "categoria": "Relojes",
+        "precio": 500,
+        "moneda": "USD",
+        "material": "Acero inoxidable",
+        "marca": "Omega",
+        "tipo": "Analógico"
+      },
+      {
+        "id": 6,
+        "nombre": "Anillo de platino con rubí",
+        "categoria": "Anillos",
+        "precio": 2500,
+        "moneda": "USD",
+        "material": "Platino",
+        "piedra": "Rubí",
+        "peso": "7 gramos"
+      },
+      {
+        "id": 7,
+        "nombre": "Collar de oro rosa con diamantes",
+        "categoria": "Collares",
+        "precio": 3200,
+        "moneda": "USD",
+        "material": "Oro rosa 18k",
+        "piedra": "Diamante",
+        "largo": "40 cm"
+      },
+      {
+        "id": 8,
+        "nombre": "Pulsera de cuero con cierre de plata",
+        "categoria": "Pulseras",
+        "precio": 180,
+        "moneda": "USD",
+        "material": "Cuero",
+        "cierre": "Plata 925",
+        "largo": "20 cm"
+      },
+      {
+        "id": 9,
+        "nombre": "Aros de oro amarillo con zafiros",
+        "categoria": "Aros",
+        "precio": 1100,
+        "moneda": "USD",
+        "material": "Oro amarillo 18k",
+        "piedra": "Zafiro",
+        "peso": "3 gramos"
+      },
+      {
+        "id": 10,
+        "nombre": "Reloj de oro 18k con correa de cuero",
+        "categoria": "Relojes",
+        "precio": 4500,
+        "moneda": "USD",
+        "material": "Oro 18k",
+        "marca": "Rolex",
+        "tipo": "Analógico"
+      }
+    ]
+  }
+  
